@@ -947,6 +947,11 @@ footer{
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
 }
+.boxholders{
+    animation: bottomup linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
 .thirdbodycontainer{
     animation: leftright linear;
     animation-timeline: view();
